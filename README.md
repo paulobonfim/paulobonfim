@@ -7,7 +7,7 @@
 ##### . a linguagem de programação que mais domino é Python
 ##### . habilidades: Pandas, Matplotlib, Numpy, Scikit Learn
 ##### . conhecimento básico : HTML, Java Script, Java
-##### . soft skills: resiliência, gosto de desafios, capacidade analítica, autoconfiança, resolvedor de problemas
+##### . soft skills: resiliência, gosto de desafios, capacidade analítica, autoconfiança, resolvedor de problemas e gosto de mudanças
 ##### . em busca do primeiro estágio e a primeira oportunidade na área de tecnologia 🤗
 
 
