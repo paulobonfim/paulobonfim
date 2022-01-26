@@ -3,6 +3,7 @@
 ##### . Sou médico, formado há 3 anos pela PUC-Campinas e desde 2019 estou migrando pra área de Data Science
 ##### . apaixonado por inovação, tecnologia, resolver problemas por meio da matemática e tecnologia
 ##### . num futuro próximo, quero trabalhar com tecnologia voltada para área da saúde 
+##### . fiz o Bootcamp Backend Developer Carrefour da Digital Innovation One
 ##### . faço cursos online e também a Formação Inteligência Artificial focado em Medicina, da Data Science Academy
 ##### . a linguagem de programação que mais domino é Python
 ##### . habilidades: Pandas, Matplotlib, Numpy, Scikit Learn
