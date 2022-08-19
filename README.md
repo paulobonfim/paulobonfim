@@ -1,17 +1,21 @@
-# Olá pessoal
+# Olá, sou Paulo Henrique
 
-##### . Sou médico, formado há 4 anos pela PUC-Campinas e desde 2019 estou migrando pra área de Data Science
-##### . apaixonado por inovação, tecnologia, resolver problemas por meio da matemática e tecnologia
-##### . num futuro próximo, quero trabalhar com tecnologia voltada para área da saúde 
-##### . fiz o Bootcamp Backend Developer Carrefour da Digital Innovation One
-##### . faço cursos online e também a Formação Inteligência Artificial focado em Medicina, da Data Science Academy
-##### . a linguagem de programação que mais domino é Python
-##### . habilidades: Pandas, Matplotlib, Numpy, Scikit Learn
-##### . conhecimento básico : HTML, Java Script, Java
-##### . soft skills: resiliência, gosto de desafios, capacidade analítica, autoconfiança, resolvedor de problemas e sem medo de mudanças
-##### . em busca do primeiro estágio e a primeira oportunidade na área de tecnologia 🤗
+Sou médico e desde 2020 estou migrando pra área de Data Science. A pandemia me despertou um olhar para a tecnologia em saúde. Vi que atuando nessa área, tenho a possibilidade de impactar mais pessoas e unir duas grandes paixões, a inovação e cuidar do próximo.
 
+## Conhecimento de tecnologias:
 
+ . a linguagem de programação que mais domino é Python 🐍  
+ 
+ . habilidades: Pandas, Matplotlib, Numpy, Scikit Learn 💻
+
+ . soft skills: resiliência, gosto de desafios, capacidade analítica, autoconfiança, resolvedor de problemas e sem medo de mudanças
+
+ . em busca da primeira oportunidade na área de tecnologia 🤗
+
+## Contato:
+
+ . paulohenriqueph8@hotmail.com 
+ 
 <!--
 **paulobonfim/paulobonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
